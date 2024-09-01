@@ -280,4 +280,10 @@ where $\hat{R_i}$ is the estimated rating, $R_{i}$ the actual (unknown) rating a
 
 ## Citation
 
-TODO
+@article{dekoninck2024polyrating,
+      title={Polyrating: A Cost-Effective and Bias-Aware Rating System for LLM Evaluation}, 
+      author={Jasper Dekoninck and Maximilian Baader and Martin Vechev},
+      year={2024},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
